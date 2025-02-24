@@ -1,0 +1,14 @@
+Description: This contains content for the the file "/www/public/pages/reading-material.html".
+Content:
+<value>
+Reddit is a social media website that serves as a platform for discussions, news, and diverse topics. It is organized around individual communities called subreddits, where users share content by making posts and contribute to discussions through comments. When engaging with content, users express their opinions by giving upvotes to show approval and downvotes to show disapproval. These interactions help determine the overall quality of contributions and contribute to a user's karma, a score that reflects their reputation on the site.
+<br><br>
+The site's design highlights popular content on the front page, allowing visitors to easily view engaging posts. Users can also share interesting posts with others by using the share feature. For those looking for additional benefits, premium membership options are available through Reddit Gold.
+<br><br>
+To personalize your experience, you can subscribe to your favorite subreddits, ensuring that content from those communities appears in your personalized feed. If you encounter inappropriate material, the reporting feature allows you to alert moderators. Reddit also facilitates direct communication through PM, enabling private messaging between users.
+<br><br>
+Most subreddits include a sidebar, which offers additional information such as rules and guidelines. Posts can be sorted by various criteria: the hot filter displays trending content; the new filter shows the most recent posts; the controversial filter highlights content with mixed opinions; and the top filter showcases the highest rated posts.
+<br><br>
+Users have the option to modify their content using the editing function, and if needed, they can remove posts using the removing feature. Many communities allow posts to include flair--a customizable label that indicates the category or topic of the post. For users who follow multiple communities on similar subjects, the multireddit feature lets you combine several subreddits into one view. Additionally, interactive posts like polls allow the community to vote on options, fostering engagement. If you find a post that interests you and want to refer back to it later, the save feature lets you bookmark it for future reference.
+<div class='course_links_outter'><a class='course_links' href="./evaluation.html">Start Evaluation</a></div>
+</value>

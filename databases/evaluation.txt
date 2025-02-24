@@ -1,0 +1,75 @@
+Question: Reddit is a ______ website where users discuss various topics.
+Choices: social media | cyber portal
+Answer: social media
+Question: The various communities on Reddit are called ______.
+Choices: commurads | subreddits
+Answer: subreddits
+Question: Individual contributions on Reddit are known as ______.
+Choices: posts | narracles
+Answer: posts
+Question: User responses to posts are written as ______.
+Choices: responses | comments
+Answer: comments
+Question: Positive feedback on posts is given through ______.
+Choices: upvotes | boostrics
+Answer: upvotes
+Question: Negative feedback on content is expressed via ______.
+Choices: debits | downvotes
+Answer: downvotes
+Question: Accumulated points for user activity are known as ______.
+Choices: karma | revalon
+Answer: karma
+Question: The main page displaying popular content is called the ______.
+Choices: front page | headside
+Answer: front page
+Question: To spread a post to other platforms, users can ______ it.
+Choices: circulate | share
+Answer: share
+Question: Premium features on Reddit can be accessed with ______ membership.
+Choices: Reddit Gold | Silver Shield
+Answer: Reddit Gold
+Question: Following a subreddit to see its content on your homepage is called ______.
+Choices: subscribing | affiliating
+Answer: subscribing
+Question: The continuous stream of posts on your homepage is known as the ______.
+Choices: timeline | feed
+Answer: feed
+Question: Inappropriate content can be flagged through ______.
+Choices: reporting | broadcasting
+Answer: reporting
+Question: Direct communication between users is done via a ______.
+Choices: PM | directicle
+Answer: PM
+Question: The area displaying additional subreddit information is called the ______.
+Choices: sidebar | flankboard
+Answer: sidebar
+Question: Posts that gain rapid attention are often labeled as ______.
+Choices: hot | blazing
+Answer: hot
+Question: The sorting option for the most recent content is known as ______.
+Choices: new | currentish
+Answer: new
+Question: Posts with divisive opinions are sometimes categorized as ______.
+Choices: controversial | disputable
+Answer: controversial
+Question: The highest rated posts in a community are featured in the ______ section.
+Choices: top | summit
+Answer: top
+Question: If a user wishes to modify their submission, they can use the ______ function.
+Choices: editing | rewriting
+Answer: editing
+Question: When a post is no longer needed, a user may choose ______.
+Choices: removing | discarding
+Answer: removing
+Question: A customizable label on a post that indicates its category is called ______.
+Choices: tag | flair
+Answer: flair
+Question: A feature that allows users to combine several subreddits into one view is known as a ______.
+Choices: multireddit | mixboard
+Answer: multireddit
+Question: An interactive post where users can vote on options is called a ______.
+Choices: poll | surveyon
+Answer: poll
+Question: The option to bookmark a post for later is available through the ______ feature.
+Choices: save | lockit
+Answer: save

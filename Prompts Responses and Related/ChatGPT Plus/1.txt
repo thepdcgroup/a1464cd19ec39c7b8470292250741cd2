@@ -1,0 +1,164 @@
+1. Reddit is a ______ website where users discuss various topics.
+A) social media
+B) cyber portal
+
+Answer: social media
+
+2. The various communities on Reddit are called ______.
+A) commurads
+B) subreddits
+
+Answer: subreddits
+
+3. Individual contributions on Reddit are known as ______.
+A) posts
+B) narracles
+
+Answer: posts
+
+4. User responses to posts are written as ______.
+A) responses
+B) comments
+
+Answer: comments
+
+5. Positive feedback on posts is given through ______.
+A) upvotes
+B) boostrics
+
+Answer: upvotes
+
+6. Negative feedback on content is expressed via ______.
+A) debits
+B) downvotes
+
+Answer: downvotes
+
+7. Accumulated points for user activity are known as ______.
+A) karma
+B) revalon
+
+Answer: karma
+
+8. The main page displaying popular content is called the ______.
+A) front page
+B) headside
+
+Answer: front page
+
+9. To spread a post to other platforms, users can ______ it.
+A) circulate
+B) share
+
+Answer: share
+
+10. Premium features on Reddit can be accessed with ______ membership.
+A) Reddit Gold
+B) Silver Shield
+
+Answer: Reddit Gold
+
+11. Following a subreddit to see its content on your homepage is called ______.
+A) subscribing
+B) affiliating
+
+Answer: subscribing
+
+12. The continuous stream of posts on your homepage is known as the ______.
+A) timeline
+B) feed
+
+Answer: feed
+
+13. Inappropriate content can be flagged through ______.
+A) reporting
+B) broadcasting
+
+Answer: reporting
+
+14. Direct communication between users is done via a ______.
+A) PM
+B) directicle
+
+Answer: PM
+
+15. The area displaying additional subreddit information is called the ______.
+A) sidebar
+B) flankboard
+
+Answer: sidebar
+
+16. Posts that gain rapid attention are often labeled as ______.
+A) hot
+B) blazing
+
+Answer: hot
+
+17. The sorting option for the most recent content is known as ______.
+A) new
+B) currentish
+
+Answer: new
+
+18. Posts with divisive opinions are sometimes categorized as ______.
+A) controversial
+B) disputable
+
+Answer: controversial
+
+19. The highest rated posts in a community are featured in the ______ section.
+A) top
+B) summit
+
+Answer: top
+
+20. If a user wishes to modify their submission, they can use the ______ function.
+A) editing
+B) rewriting
+
+Answer: editing
+
+21. When a post is no longer needed, a user may choose ______.
+A) removing
+B) discarding
+
+Answer: removing
+
+22. A customizable label on a post that indicates its category is called ______.
+A) tag
+B) flair
+
+Answer: flair
+
+23. A feature that allows users to combine several subreddits into one view is known as a ______.
+A) multireddit
+B) mixboard
+
+Answer: multireddit
+
+24. An interactive post where users can vote on options is called a ______.
+A) poll
+B) surveyon
+
+Answer: poll
+
+25. The option to bookmark a post for later is available through the ______ feature.
+A) save
+B) lockit
+
+Answer: save
+
+
+Using Reddit: A Beginner’s Guide
+
+Reddit is a social media website that serves as a platform for discussions, news, and diverse topics. It is organized around individual communities called subreddits, where users share content by making posts and contribute to discussions through comments. When engaging with content, users express their opinions by giving upvotes to show approval and downvotes to show disapproval. These interactions help determine the overall quality of contributions and contribute to a user’s karma, a score that reflects their reputation on the site.
+
+The site’s design highlights popular content on the front page, allowing visitors to easily view engaging posts. Users can also share interesting posts with others by using the share feature. For those looking for additional benefits, premium membership options are available through Reddit Gold.
+
+To personalize your experience, you can subscribe to your favorite subreddits, ensuring that content from those communities appears in your personalized feed. If you encounter inappropriate material, the reporting feature allows you to alert moderators. Reddit also facilitates direct communication through PM, enabling private messaging between users.
+
+Most subreddits include a sidebar, which offers additional information such as rules and guidelines. Posts can be sorted by various criteria: the hot filter displays trending content; the new filter shows the most recent posts; the controversial filter highlights content with mixed opinions; and the top filter showcases the highest rated posts.
+
+Users have the option to modify their content using the editing function, and if needed, they can remove posts using the removing feature. Many communities allow posts to include flair—a customizable label that indicates the category or topic of the post. For users who follow multiple communities on similar subjects, the multireddit feature lets you combine several subreddits into one view. Additionally, interactive posts like polls allow the community to vote on options, fostering engagement. If you find a post that interests you and want to refer back to it later, the save feature lets you bookmark it for future reference.
+
+This guide covers all the basic functions and features of Reddit, making it easy for beginners to navigate and actively participate in the community.

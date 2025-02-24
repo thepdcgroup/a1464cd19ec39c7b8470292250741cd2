@@ -1,0 +1,33 @@
+# About
+
+NAME: Ritchey Introduction to Reddit
+IMPLEMENTATION: 1
+VERSION: 0.1
+LONG IDENTIFIER: Ritchey Introduction to GitHub i1 v0.1
+SHORT IDENTIFIER: RIGi1v0.1
+AUTHOR: James Daniel Marrs Ritchey
+
+## Overview
+
+Ritchey Introduction to Reddit is a web-course about Reddit.
+
+## Licensing
+
+This project is hereby licensed under the Ritchey Permissive License v19.
+
+## History
+
+Releases:
+- Project started February 24, 2025.
+- Version 0.1 completed February 24, 2025.
+
+Highlighted Changes:
+- 
+
+## Notes
+
+Technical:
+- 
+
+Other:
+- 
